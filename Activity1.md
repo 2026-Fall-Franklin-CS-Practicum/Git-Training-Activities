@@ -24,6 +24,7 @@ To begin, you need to fork the repository.  Any time you are going to work on so
 
     ![Select Your Account](images/Activity1/Image0103.png)
 
+![alt text](image.png) This is the image shows clone to repo using fork , and then copy url to https shows in the GitActivities.
 
 3. Once the fork operation is completed, you have your own copy of the code.
 
@@ -135,3 +136,4 @@ At the end of this activity, you should have completed the following:
 *   You pushed the local changes to your remote repo.
 
 *   You have opened a PR to the base repository.  Leave this open as part of the week 1/2 requirements.
+## Yes, I followed all the steps listed above, and I will continue with the next steps.
