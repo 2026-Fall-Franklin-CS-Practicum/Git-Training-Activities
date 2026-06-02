@@ -1,1 +1,2 @@
+This is the first Conflict
 This is a different edit, creating a conflict
