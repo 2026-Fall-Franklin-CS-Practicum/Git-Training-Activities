@@ -106,5 +106,30 @@ To complete the activity, you need to update your local branch to resolve the me
 
 2. Review the pull request
 
-    Now that you merged the updated master, and pushed to remote, the pull request should no longer show any conflicts.  Merge the pull request to complete the activity.
+    Now that you merged the updated master, and pushed to remote, the pull request should no longer show any conflicts.  Merge the pull request to complete the activity
+    # To Create  the first change 
+    (merge-conflict-activity-1).
 
+2. Create the Conflicting Change
+
+3. Update your local repository.
+
+    On your machine, run the command to get back to master.
+
+    ```
+    git checkout master
+    ```
+
+    Then run the command to fetch and pull
+
+    ```
+    git fetch --prune && git pull
+    ```
+
+    This will bring the changes you just merged down to your local machine.
+
+## Task 4: Resolve the conflict on the original branch ##
+To complete the activity, you need to update your local branch to resolve the merge conflicts, and then you can push your changes out to the remote to fix the merge conflict.
+3. Trigger the Conflict
+Resolve and Merge
+# I understand some of this issues should be solved

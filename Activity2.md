@@ -125,3 +125,5 @@ In this task, you will run commands to make sure that you have the latest code a
     ![Reviewing the pull request](images/Activity2/Image0210.png)
     
 This will complete your GIT activity.  In this activity, you learned how to work with a branch and create a pull request so that you can ensure your changes can be merged into the repository without creating a conflict.  
+## I understand the steps and requirements for this activity. It seems like the main purpose is to explain the next steps, how to avoid common issues, and how to fix problems that may come up in future Git projects. This activity helps us understand the workflow so we can prevent mistakes, resolve errors, and follow the correct process in upcoming assignments. It basically prepares us for the next project by giving us clear instructions and helping us build confidence with Git.
+
